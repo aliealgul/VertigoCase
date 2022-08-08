@@ -35,9 +35,12 @@ It is the largest shipping port according to [sources](https://www.worldshipping
 
 **Area I struggle and which ways I follow to solve the problem**
 
-First 2 days I create models properly to use LOD system in unity. After I finish modeling and texturing processes, I start to arrange lighting setup. 
+First 2 days I create models properly to use LOD system in unity. After I finish modeling and texturing processes, I start to arrange lighting setup.
+ 
 Then I came across lots of shading problems while baking lightmaps because of LOD. Then I bake lights with a non-proper way that I personally won’t use on projects. 
+
 This time, everything is working but rearranging something in the scene is became a really time consuming process.
+
 Then finally, since the map is relatively small and frame rates looks enough to me, I decide to keep going without LOD system.
 
 
