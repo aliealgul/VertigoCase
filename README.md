@@ -3,9 +3,13 @@
 VERTIGO GAMES CASE STUDY
 
 Software Versions
+
 Unity 2020.3.21f1
+
 Blender 3.2.0 Beta
+
 Adobe Substance Painter 8.1.2
+
 
 
 
