@@ -23,7 +23,7 @@ All props modeled based on 1.80m tall male human referance model. Containers mod
 
 **Lore**
 
-Vertigo Games Company has finished the development of their brand new game “Project X” and the company ready to publish it. But last night a group of terrorists attack to World’s largest shipping port located in Shangai, China. Now, it is time to save the copies of the project out of their hands.
+Vertigo Games Company has finished the development of their brand new game “Project X” and they are ready to publish it. But last night a group of terrorists has attacked to World’s largest shipping port located in Shangai, China. Now, it is time to save the copies of the project out of their hands.
 
 
 
