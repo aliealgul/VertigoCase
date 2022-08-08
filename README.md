@@ -45,9 +45,9 @@ Then finally, since the map is relatively small and frame rates looks enough to 
 
 
 
-**Special thanks to**
+**thanks to**
 
-everyone in Vertigo Games to spend time on this project. I look forward to discuss with you.
+everyone in Vertigo Games for their time and feedbacks. I look forward to discuss with you.
 Best regards...
 
 [Ali Emre Algül](https://www.linkedin.com/in/aliemrealgul/)
