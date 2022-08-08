@@ -16,7 +16,7 @@ Adobe Substance Painter 8.1.2
 
 A map design which named “Shangai” based on fy_iceworld map layout, under 100k total polycount (around 95k).
 All textures are at the size 4096x4096, except lightmaps.
-“Resources” folder includes all “.blend” files. Due to high file sizes, “.spp” files uploaded to [GDrive](https://drive.google.com/drive/folders/1zHNTHLXOcV5iST-SKljpdnqu6m1y2UDE?usp=sharing).
+“Resources” folder includes all “.blend” files.
 All props modeled based on 1.80m tall male human referance model. Containers modeled based on [real world sizes](https://www.mrbox.co.uk/shipping-containers/#:~:text=Standard%20ISO%20shipping%20containers%20are,ft%20(2.89m)%20high.).
 
 
