@@ -29,7 +29,7 @@ Vertigo Games Company has finished the development of their brand new game “Pr
 
 **Why I picked Shangai?**
 
-It is the largest shipping port according to sources. So I thought it will be the best option for the lore. Map doesn’t includes any props or features yet to make player feel like he/she is in China. 
+It is the largest shipping port according to [sources](https://www.worldshipping.org/top-50-ports). So I thought it will be the best option for the lore. Map doesn’t includes any props or features yet to make player feel like he/she is in China. 
 
 
 
